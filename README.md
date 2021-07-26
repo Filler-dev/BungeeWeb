@@ -12,3 +12,4 @@ Features
 * Allows for the inspection of individual users.
 * Support for multiple administrative user accounts.
 * Complete UUID support.
+* Soon
