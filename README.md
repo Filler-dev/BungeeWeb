@@ -12,11 +12,3 @@ Features
 * Allows for the inspection of individual users.
 * Support for multiple administrative user accounts.
 * Complete UUID support.
-
-Compiling
----------
-The plugin makes use of Maven to enable fast and easy compiling. If you wish to compile the plugin, simply run `mvn package`.
-
-Licence
--------
-This plugin and its source code is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International licence](http://creativecommons.org/licenses/by-sa/4.0/deed.en_US).
